@@ -1,0 +1,51 @@
+transaction_id,transaction_date,customer_id,product_id,product_name,category,quantity,unit_price,total_amount,store_location,payment_method
+TXN000051,2025-01-17 14:22:46,C6139,P001,wireless  mouse,Electronics,1,24.99,24.99,Orlando,Google Pay
+TXN000052,2025-01-17 11:16:02,C8144,P002,USB-C CABLE,Electronics,4,12.5,50.0,Orlando,Google Pay
+TXN000053,2025-01-15 14:04:42,C6409,P011, T-SHIRT ,Apparel,2,18.0,36.0,Dallas,Credit Card
+TXN000054,2025-01-17 12:42:26,C6344,P012,running  shoes,Apparel,3,79.99,239.97,Dallas,Cash
+TXN000055,2025-01-14 14:42:24,C3851,P009,pHONE cHARGER,Electronics,2,16.99,33.98,Raleigh,Google Pay
+TXN000056,2025-01-15 12:13:27,C6279,P014,Protein Bar,Food,1,2.49,2.49,Raleigh,Apple Pay
+TXN000057,2025-01-17 15:50:57,C3780,P011,t-shirt,Apparel,2,18.0,36.0,Nashville,Google Pay
+TXN000058,2025-01-15 09:52:48,C4848,P011,t-sHIRT,Apparel,5,18.0,90.0,Atlanta,Debit Card
+TXN000059,2025-01-13 11:30:39,C2193,P003,Mechanical Keyboard,Electronics,1,89.99,89.99,Raleigh,Google Pay
+TXN000060,2025-01-16 14:15:09,C1090,P004,notebook,Office Supplies,4,6.75,27.0,Raleigh,Debit Card
+TXN000061,2025-01-16 08:35:15,C2988,P003,Mechanical Keyboard,Electronics,5,89.99,449.95,Atlanta,Apple Pay
+TXN000062,2025-01-17 17:20:48,C8251,P011,t-shirt,Apparel,5,18.0,90.0,Orlando,Apple Pay
+TXN000063,2025-01-18 21:30:28,C5246,P015,Headphones,Electronics,2,59.99,119.98,Dallas,Cash
+TXN000064,2025-01-16 18:15:17,C8206,P013,yoga mat,Fitness,5,29.99,149.95,Dallas,Cash
+TXN000065,2025-01-15 13:57:34,C2320,P004,  Notebook  ,Office Supplies,3,6.75,20.25,Atlanta,Debit Card
+TXN000066,2025-01-18 11:04:26,C7678,P007, WATER BOTTLE ,Kitchen,2,19.99,39.98,Orlando,Apple Pay
+TXN000067,2025-01-14 21:26:24,C1320,P007,water  bottle,Kitchen,1,19.99,19.99,Raleigh,Credit Card
+TXN000068,2025-01-19 14:54:57,C7865,P006,Coffee  Mug,Kitchen,3,14.99,44.97,Raleigh,Debit Card
+TXN000069,2025-01-16 08:24:21,C7624,P005,  Ballpoint Pen Pack  ,Office Supplies,4,8.49,33.96,Raleigh,Debit Card
+TXN000070,2025-01-13 14:37:36,C1444,P010,backpack,Accessories,5,49.99,249.95,Dallas,Apple Pay
+TXN000071,2025-01-14 08:16:24,C6363,P003,Mechanical  Keyboard,Electronics,4,89.99,359.96,Raleigh,Cash
+TXN000072,2025-01-15 20:53:26,C5133,P006,coffee mug,Kitchen,4,14.99,59.96,Raleigh,Credit Card
+TXN000073,2025-01-13 13:14:41,C2124,P012,RUNNING SHOES,Apparel,5,79.99,399.95,Charleston,Debit Card
+TXN000074,2025-01-17 10:15:08,C8758,P004,notebook,Office Supplies,1,6.75,6.75,Orlando,Debit Card
+TXN000075,2025-01-19 13:10:38,C2876,P008,  Desk Lamp  ,Home,3,34.5,103.5,Nashville,Credit Card
+TXN000076,2025-01-15 17:43:58,C7149,P010,backpack,Accessories,1,49.99,49.99,Dallas,Debit Card
+TXN000077,2025-01-18 21:40:15,C2669,P002,uSB-c cABLE,Electronics,5,12.5,62.5,Dallas,Google Pay
+TXN000078,2025-01-19 17:50:02,C6688,P013,yoga  mat,Fitness,1,29.99,29.99,Dallas,Cash
+TXN000079,2025-01-18 13:00:54,C7882,P002,USB-C Cable,Electronics,5,12.5,62.5,Charleston,Apple Pay
+TXN000080,2025-01-18 10:27:11,C9548,P006,cOFFEE mUG,Kitchen,4,14.99,59.96,Orlando,Google Pay
+TXN000081,2025-01-16 14:52:46,C5397,P013, YOGA MAT ,Fitness,4,29.99,119.96,Atlanta,Credit Card
+TXN000082,2025-01-14 20:29:36,C7209,P005, BALLPOINT PEN PACK ,Office Supplies,4,8.49,33.96,Charleston,Apple Pay
+TXN000083,2025-01-14 15:13:22,C5232,P014, PROTEIN BAR ,Food,3,2.49,7.47,Nashville,Google Pay
+TXN000084,2025-01-17 08:33:12,C2402,P012,Running  Shoes,Apparel,3,79.99,239.97,Dallas,Apple Pay
+TXN000085,2025-01-19 11:44:30,C9041,P008,Desk Lamp,Home,5,34.5,172.5,Charleston,Credit Card
+TXN000086,2025-01-16 19:15:19,C7046,P005,Ballpoint Pen Pack,Office Supplies,2,8.49,16.98,Orlando,Google Pay
+TXN000087,2025-01-18 16:21:22,C8434,P006,cOFFEE mUG,Kitchen,4,14.99,59.96,Nashville,Cash
+TXN000088,2025-01-18 11:20:07,C9779,P004,  Notebook  ,Office Supplies,1,6.75,6.75,Atlanta,Debit Card
+TXN000089,2025-01-15 19:37:48,C9595,P012,rUNNING sHOES,Apparel,4,79.99,319.96,Charleston,Debit Card
+TXN000090,2025-01-15 10:19:00,C9751,P005,  Ballpoint Pen Pack  ,Office Supplies,2,8.49,16.98,Nashville,Credit Card
+TXN000091,2025-01-15 19:08:40,C9042,P001,wireless mouse,Electronics,5,24.99,124.95,Charleston,Google Pay
+TXN000092,2025-01-16 15:21:11,C1841,P005,bALLPOINT pEN pACK,Office Supplies,4,8.49,33.96,Raleigh,Credit Card
+TXN000093,2025-01-16 15:04:36,C1878,P014,  Protein Bar  ,Food,1,2.49,2.49,Atlanta,Google Pay
+TXN000094,2025-01-14 09:35:48,C7818,P005,Ballpoint  Pen  Pack,Office Supplies,1,8.49,8.49,Orlando,Apple Pay
+TXN000095,2025-01-15 21:37:27,C6003,P008,DESK LAMP,Home,4,34.5,138.0,Orlando,Credit Card
+TXN000096,2025-01-18 11:16:42,C2330,P013,  Yoga Mat  ,Fitness,2,29.99,59.98,Atlanta,Debit Card
+TXN000097,2025-01-14 08:26:28,C8699,P009,pHONE cHARGER,Electronics,1,16.99,16.99,Charleston,Debit Card
+TXN000098,2025-01-18 21:29:04,C4824,P005,bALLPOINT pEN pACK,Office Supplies,3,8.49,25.47,Dallas,Google Pay
+TXN000099,2025-01-16 09:34:14,C3441,P011,t-sHIRT,Apparel,2,18.0,36.0,Atlanta,Credit Card
+TXN000100,2025-01-19 12:38:47,C5728,P001,Wireless Mouse,Electronics,2,24.99,49.98,Charleston,Apple Pay
